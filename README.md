@@ -21,38 +21,11 @@ Write Code: Writing code decreases energy and happiness but adds to your progres
 
 Fix Bugs: Bugs will accumulate as you write code. Fix them to reduce the bug count, but it takes energy and could also decrease your happiness.
 
-Take Breaks: Taking breaks will increase your happiness and energy, but it will also cost you time.
+Take Breaks: Taking breaks will increase your happiness and energy, but it will cost you time.
 
-Drink Coffee: Drinking coffee boosts energy and provides a small happiness boost, but doesn't help you directly with code or bugs.
+Drink Coffee: Drinking coffee boosts energy and provides a small happiness boost, but it will cost you time.
 
 The game continues until you either reach the code goal or burn out. Can you become a legendary developer with the fewest clicks?
-
-Installation
-Clone this repository to your local machine:
-
-bash
-Copy
-Edit
-git clone https://github.com/fastbreak91/devSimulator.git
-Navigate into the project directory:
-
-bash
-Copy
-Edit
-cd devSimulator
-Install the dependencies:
-
-bash
-Copy
-Edit
-npm install
-Start the game in development mode:
-
-bash
-Copy
-Edit
-npm start
-Open your browser and go to http://localhost:3000 to play the game.
 
 Contributing
 If you'd like to contribute to this project, feel free to fork the repository and create a pull request with your changes.
